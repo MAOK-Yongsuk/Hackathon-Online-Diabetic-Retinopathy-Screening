@@ -2,6 +2,10 @@
 
 Kaggle: https://www.kaggle.com/competitions/hackathon-online-diabetic-retinopathy-screening
 
-Private Score: 0.86613
-Public Score: 0.87004
+### Assess yourself for this round of competition.
 
+| 💚  | 💛 | ❤️ |
+| --- | --- | --- |
+| Good | Fairly Good  | Poor |
+
+No. 8 ---> private_score 0.86613 💛
