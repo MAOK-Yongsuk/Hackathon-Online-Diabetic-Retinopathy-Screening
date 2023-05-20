@@ -2,7 +2,7 @@
 
 Kaggle: https://www.kaggle.com/competitions/hackathon-online-diabetic-retinopathy-screening
 
-### Assess yourself for this round of competition.
+### Assess myself for this round of competition.
 
 | 💚  | 💛 | ❤️ |
 | --- | --- | --- |
